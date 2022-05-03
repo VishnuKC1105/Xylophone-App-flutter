@@ -1,7 +1,7 @@
 # Xylophone App
 
-An android Xylophone app with 7 sounds.
+A  Xylophone app with 7 sounds and with VIBGYOR colours.
 
-## Screenshot
+## The App
 
-   ![Screenshot (27)](https://user-images.githubusercontent.com/91648418/163519218-72f7458f-8b0a-49b4-8c19-3fdecdf4e0d7.png)
+   ![threed_mockup](https://user-images.githubusercontent.com/91648418/166408286-78864905-8fb5-439e-8be3-1ca146e11183.png)
